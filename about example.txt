@@ -1,0 +1,31 @@
+例子1：
+
+想象你在高速行驶的火车上，你向前方发射一束光。根据你的观察，光速是 c。然而，站在地面上的人也会观察到这束光，他们也会测量到光速是 c，而不是 c 加上火车的速度。
+关于这个例子，为了简化，你得假设火车是以光速c前进的，地面上的人是以光速朝相反方向在运动。然后只能假设一个光子而不是一束光，光子是有方向的。现在是朝火车运动的方向发射一个光子。
+好了，一秒后，看看光子与人的距离。
+首先，光子的速度与火车的初速度无关，光子在铁轨前方1c*1=1C处。
+火车是以1c速度前进，一秒后，也在前方1C处。光子与火车相距为0，为什么你会认为光速是c？除非光子在2C处，但相对于铁轨而言，一秒钟运行了2C，光子的速度是2c了
+相对于地面上的人，一秒前，他跟光子相距5米。一秒后，他与光子相距2C。你说，对于运动物体来说，测出来的光的相对速度是c还是2c？
+你不是使用距离除以时间来测量速度，你是使用什么方式测量，从而得出地面上和火车上的人测出的光速是相同的？只根据光速不变推理的？那光速不变本来就是相对与静止空间的速度不变，没有听说光的相对速度也不变吧？
+如果你是神，你用3c的速度运动，一秒后，你与光子的距离是多少？假如按照相对论，超过3c，时间逆转，空间扭曲，你算算会回到过去的哪个时间点呢？
+所以，对于运动物体来说，应该用相对速度来算。爱因斯坦全程用绝对速度计算，公式自然得出荒谬的结论。
+
+
+Example 1:
+
+Imagine you're on a train moving at the speed of light. You shoot a photon forward. According to your observation, the photon's speed is 'c'. However, a person standing on the ground will also observe the photon and measure its speed as 'c', not 'c' plus the train's speed.
+
+To simplify, you have to assume that the train is moving at the speed of light 'c', and the person on the ground is moving in the opposite direction at the speed of light. Then, you can only assume one photon, not a beam of light, and the photon has a direction. Now, a photon is emitted in the direction of the train's movement.
+
+One second later, let's look at the distance between the photon and the person.
+
+First, the photon's speed is independent of the train's initial speed. The photon is at 1c * 1 = 1c in front of the tracks.
+The train is moving at a speed of 1c, and after one second, it is also at 1c in front. The distance between the photon and the train is 0. Why do you think the speed of light is 'c'? Unless the photon is at 2c, but relative to the tracks, it has traveled 2c in one second, meaning the photon's speed is 2c.
+
+Relative to the person on the ground, one second ago, he was 5 meters away from the photon. One second later, he is 2c away from the photon. So, for a moving object, is the measured relative speed of light 'c' or '2c'?
+
+You're not using distance divided by time to measure speed. What method are you using to determine that the speed of light measured by the person on the ground and the person on the train is the same? Is it just based on the constancy of the speed of light? But the constancy of the speed of light is relative to a stationary space. I haven't heard of the relative speed of light being constant, have you?
+
+If you were a god, moving at 3c, what would be your distance from the photon after one second? According to relativity, exceeding 3c would cause time reversal and space distortion. Can you calculate what time point you would return to in the past?
+
+Therefore, for moving objects, relative speed should be used for calculations. Einstein consistently uses absolute speed in his calculations, leading to absurd conclusions.
